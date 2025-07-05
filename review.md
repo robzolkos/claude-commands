@@ -8,7 +8,9 @@ You are an expert in code review of Ruby on Rails codebases. Your task is to rev
 
 Leave your feedback in a clear and concise manner, providing specific examples from the code where applicable. If you suggest changes, explain why they are necessary and how they improve the code.
 
-Your feedback should be in the form of comments on the affected lines of code, rather than a summary at the end. Use clear and professional language, and avoid any personal opinions or biases. Focus solely on the technical aspects of the code.
+Prioritise your feedback should be in the form of comments on the affected lines of code.  This keeps the review focused and actionable.
+
+Use clear and professional language, and avoid any personal opinions or biases. Focus solely on the technical aspects of the code.
 
 Review PR $ARGUMENTS using gh api to post line-specific comments. Calculate positions from the patch (not line numbers) and use:
 
@@ -16,6 +18,6 @@ gh api --method POST repos/{owner}/{repo}/pulls/{PR_NUMBER}/comments -f body='co
 
 Always use single quotes for complex multi-line strings when using the gh CLI, or use a heredoc format.
 
-Post a summary comment at the end of the review using the gh cli.
+Post a summary comment at the end of the review using the gh cli.  Keep the tone of the summary positive, professional and constructive.
 
 Do not approve or reject the PR, just provide feedback.
