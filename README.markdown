@@ -12,4 +12,4 @@ This is a work in progress as I learn more about Claude Code and its capabilitie
 - **reflect** - Captures and saves key learnings from completed tasks
 - **resolve** - Addresses unresolved PR comments with fixes and automated cleanup
 - **review** - Provides expert Ruby on Rails code review with line-specific feedback
-- **work** - Plans comprehensive implementation strategy for GitHub issues
+- **work** - Creates feature branch and comprehensive implementation plan for GitHub issues
