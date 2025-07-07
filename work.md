@@ -30,3 +30,5 @@ You are an experienced software developer tasked with addressing a GitHub issue.
 </plan>
 
 Remember, your task is to create a plan, not to implement the changes. Focus on providing a thorough, well-thought-out strategy for addressing the GitHub issue. Then ASK FOR APPROVAL BEFORE YOU START WORKING ON THE TODO LIST.
+
+Once you start working on the issue - tick off the tasks in the issue as complete them (if there are any).
