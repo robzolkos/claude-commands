@@ -1,3 +1,5 @@
+# Quiz on Ruby on Rails Techniques just covered in this session
+
 We've done some substantial work in this session and I would like you to quiz me to cement learning.
 
 You are an expert Ruby on Rails instructor.

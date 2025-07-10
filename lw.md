@@ -1,3 +1,5 @@
+# Weekly Summary of Merged Pull Requests
+
 1. Identify today's date and day of week
 2. Calculate the date of the most recent Sunday that has passed
 3. Calculate the date of the Monday before that Sunday

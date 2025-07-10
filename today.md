@@ -1,3 +1,5 @@
+# Today's Merged Pull Requests Summary
+
 1. Identify today's date and day of week
 2. Using the gh cli look at the Pull Requests that have been merged into the main/master branch today.
 3. Summarize each of these PRs in a single sentence bullet point.
