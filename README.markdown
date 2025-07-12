@@ -12,6 +12,8 @@ This is a work in progress as I learn more about Claude Code and its capabilitie
 - **pr** - Automates PR creation with code formatting and test verification
 - **review** - Provides expert Ruby on Rails code review with line-specific feedback
 - **resolve** - Addresses unresolved PR comments with fixes and automated cleanup
+- **commit** - Creates git commits with context-aware messages based on current changes
+- **reverse** - Rails-focused problem solving through Socratic questioning to avoid over-engineering
 
 ### Learning & Reflection
 - **quiz** - Generates interactive quizzes to reinforce learning from coding sessions
